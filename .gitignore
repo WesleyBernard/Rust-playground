@@ -9,3 +9,6 @@
 # Compiled output
 *.class
 out/*
+
+Cargo.lock
+
